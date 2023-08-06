@@ -6,9 +6,9 @@
 ##Soy un apasionado desarrollador de aplicaciones multiplataforma, con experiencia en la creación de soluciones innovadoras para diversos dispositivos. A lo largo de mi trayectoria, he trabajado en el desarrollo de aplicaciones móviles android y IOS.
 Además de mi interés en el desarrollo de aplicaciones.Actualmente estoy comenzado a cursar una especializacion en Inteligencia Artificial y Big Data, donde estoy adquiriendo conocimientos en algoritmos de aprendizaje automático, procesamiento de datos masivos y análisis predictivo. Creo firmemente que la combinación de la inteligencia artificial con la gestión y análisis de grandes volúmenes de datos nos brinda oportunidades sin precedentes para resolver problemas y tomar decisiones más informadas en diversos campos.
 
-![Static Badge](https://img.shields.io/badge/android-studio?logo=android&logoColor=green&labelColor=black&color=green)
-![Static Badge](https://img.shields.io/badge/kotlin-black?style=plastic&logo=kotlin&logoColor=violet&labelColor=black&color=violet)
-![Static Badge](https://img.shields.io/badge/Swift-black?style=plastic&logo=swift&logoColor=red&labelColor=black&color=red)
+![Android](https://img.shields.io/badge/android-studio?logo=android&logoColor=green&labelColor=black&color=green)
+![Kotlin](https://img.shields.io/badge/kotlin-black?style=plastic&logo=kotlin&logoColor=violet&labelColor=black&color=violet)
+![Swift](https://img.shields.io/badge/Swift-black?style=plastic&logo=swift&logoColor=red&labelColor=black&color=red)
 
 
 Entre mis habilidades destacadas se encuentran:
