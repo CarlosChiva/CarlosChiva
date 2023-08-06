@@ -7,7 +7,7 @@ Además de mi interés en el desarrollo de aplicaciones.Actualmente estoy comenz
 
 ![Static Badge](https://img.shields.io/badge/android-studio?logo=android&logoColor=green&labelColor=black&color=green)
 ![Static Badge](https://img.shields.io/badge/kotlin-black?style=plastic&logo=kotlin&logoColor=violet&labelColor=black&color=violet)
-![Static Badge](https://img.shields.io/badge/kotlin-black?style=plastic&logo=swift&logoColor=red&labelColor=black&color=red)
+![Static Badge](https://img.shields.io/badge/Swift-black?style=plastic&logo=swift&logoColor=red&labelColor=black&color=red)
 
 
 Entre mis habilidades destacadas se encuentran:
