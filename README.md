@@ -8,9 +8,9 @@
 
 ## 🙋‍♂️ About me
 <ul>
-  <li>👱‍♂️ 21</li>
+  <li>👱‍♂️ 29</li>
   <li>📱 Junior Android developer</li>
-  <li>📚 Learning AI and Big Data</li>
+  <li>📚 Artificial Intelligence,Big Data and Data Science</li>
 </ul>
 
 ### ✍ Programming languages
@@ -33,9 +33,9 @@
 
 ### In addition to my interest in application development, I am currently pursuing a specialization in Artificial Intelligence and Big Data. Here, I am gaining knowledge in machine learning algorithms, big data processing, and predictive analysis. I firmly believe that the combination of artificial intelligence with the management and analysis of large volumes of data provides us with unprecedented opportunities to solve problems and make more informed decisions in various fields.
 
-<div id="header2" align="center">
-  <img src="https://media.giphy.com/media/YnexM9LwlwGu4Z1QnS/giphy-downsized-large.gif" width="500"/>
-</div>
+
+<img src="https://media.giphy.com/media/YnexM9LwlwGu4Z1QnS/giphy-downsized-large.gif" width="500"/>
+
 
 
 
