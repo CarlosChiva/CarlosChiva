@@ -31,19 +31,11 @@
 
 ### In addition to my interest in application development, I am currently pursuing a specialization in Artificial Intelligence and Big Data. Here, I am gaining knowledge in machine learning algorithms, big data processing, and predictive analysis. I firmly believe that the combination of artificial intelligence with the management and analysis of large volumes of data provides us with unprecedented opportunities to solve problems and make more informed decisions in various fields.
 
-<div id="footer" align="center">
-  <img src="https://media.giphy.com/media/YnexM9LwlwGu4Z1QnS/giphy-downsized-large.gif" width="200"/>
+<div id="header2" align="center">
+  <img src="https://media.giphy.com/media/YnexM9LwlwGu4Z1QnS/giphy-downsized-large.gif" width="500"/>
 </div>
 
 
-
-Entre mis habilidades destacadas se encuentran:
-
--Desarrollo de aplicaciones multiplataforma utilizando tecnologías como React Native, Flutter y Xamarin.
--Conocimientos en lenguajes de programación como JavaScript, Python y C#.
--Experiencia en el diseño e implementación de arquitecturas de software escalables y robustas.
--Trabajo con bases de datos SQL y NoSQL para el almacenamiento y procesamiento eficiente de datos.
--Manejo de herramientas de control de versiones como Git, fundamental para la colaboración en equipo.
 
 <!--
 **CarlosChiva/CarlosChiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
