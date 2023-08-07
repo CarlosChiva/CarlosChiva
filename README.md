@@ -9,6 +9,7 @@ Además de mi interés en el desarrollo de aplicaciones.Actualmente estoy comenz
 ![Android](https://img.shields.io/badge/android-studio?style=plasticlogo=android&logoColor=green&labelColor=black&color=green)
 ![Kotlin](https://img.shields.io/badge/kotlin-black?style=plastic&logo=kotlin&logoColor=violet&labelColor=black&color=violet)
 ![Swift](https://img.shields.io/badge/Swift-black?style=plastic&logo=swift&logoColor=red&labelColor=black&color=red)
+
 ![Python](https://img.shields.io/badge/Python-p?style=flat-square&logo=python&logoColor=green&labelColor=black)
 
 
