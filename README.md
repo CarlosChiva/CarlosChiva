@@ -2,15 +2,33 @@
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
 </div>
 
-### Hi👋, I'm Carlos Chiva
-## Soy un apasionado desarrollador de aplicaciones multiplataforma, con experiencia en la creación de soluciones innovadoras para diversos dispositivos. A lo largo de mi trayectoria, he trabajado en el desarrollo de aplicaciones móviles android y IOS.
-Además de mi interés en el desarrollo de aplicaciones.Actualmente estoy comenzado a cursar una especializacion en Inteligencia Artificial y Big Data, donde estoy adquiriendo conocimientos en algoritmos de aprendizaje automático, procesamiento de datos masivos y análisis predictivo. Creo firmemente que la combinación de la inteligencia artificial con la gestión y análisis de grandes volúmenes de datos nos brinda oportunidades sin precedentes para resolver problemas y tomar decisiones más informadas en diversos campos.
+## Hi👋, I'm Carlos Chiva
+### I am a passionate cross-platform application developer, with experience in creating innovative solutions for various devices. Throughout my career, I have worked on developing Android and iOS mobile applications.
 
+### In addition to my interest in application development, I am currently pursuing a specialization in Artificial Intelligence and Big Data. Here, I am gaining knowledge in machine learning algorithms, big data processing, and predictive analysis. I firmly believe that the combination of artificial intelligence with the management and analysis of large volumes of data provides us with unprecedented opportunities to solve problems and make more informed decisions in various fields.
+
+## 🙋‍♂️ About me
+<ul>
+  <li>👱‍♂️ 21</li>
+  <li>📱 Junior Android developer</li>
+  <li>📚 Learning AI and Big Data</li>
+</ul>
+
+### ✍ Programming languages
 ![Android](https://img.shields.io/badge/android-st?style=plastic&logo=android&logoColor=green&labelColor=black)
 ![Kotlin](https://img.shields.io/badge/kotlin-black?style=plastic&logo=kotlin&logoColor=violet&labelColor=black&color=violet)
 ![Swift](https://img.shields.io/badge/Swift-black?style=plastic&logo=swift&logoColor=red&labelColor=black&color=red)          ![Python](https://img.shields.io/badge/Python-p?style=plastic&logo=python&logoColor=green&labelColor=black)
 
+### 👨🏻‍💻 Softwares and Tools
+![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=plastic&logo=android&logoColor=%a4c639)
+![ANDROID-STUDIO](https://img.shields.io/badge/Android_Studio-%2320232a.svg?style=plastic&logo=android-studio&logoColor=%a4c639) 
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=blue) 
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=green)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=Ubuntu&logoColor=orange)
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=CarlosChiva&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosChiva&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 Entre mis habilidades destacadas se encuentran:
 
