@@ -18,12 +18,14 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-black?style=plastic&logo=kotlin&logoColor=violet&labelColor=black&color=violet)
 ![Swift](https://img.shields.io/badge/Swift-black?style=plastic&logo=swift&logoColor=red&labelColor=black&color=red)          ![Python](https://img.shields.io/badge/Python-p?style=plastic&logo=python&logoColor=green&labelColor=black)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=red&labelColor=black)
-### 👨🏻‍💻 Softwares and Tools
+### 🛠️ Softwares and Tools
 ![ANDROID-STUDIO](https://img.shields.io/badge/Android_Studio-%2320232a.svg?style=plastic&logo=android-studio&logoColor=%a4c639) 
-![IntelliJ](http://img.shields.io/badge/IntelliJ-idea?style=plastic&logo=intellijidea&logoColor=blue) 
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=blue) 
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=green)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=Ubuntu&logoColor=orange)
+![IntelliJ](http://img.shields.io/badge/IntelliJ-idea?style=plastic&logo=intellijidea&logoColor=red&labelColor=black) 
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=blue&labelColor=white) 
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=yellow&labelColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=Ubuntu&logoColor=orange&labelColor=black)
+### ☁️ Data Bases
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=CarlosChiva&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)
