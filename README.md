@@ -13,10 +13,15 @@
   <li>📚 Artificial Intelligence,Big Data and Data Science</li>
 </ul>
 
+## 🤝 Socials
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cosmin-ionut-iordache-62641b26a/) -->
+
+[![Mail](https://img.shields.io/badge/-cxhiva@gmail.com-gray?logo=gmail&style=plastic)](mailto:cxhiva@gmail.com)
+
 ### ✍ Programming languages
 ![Android](https://img.shields.io/badge/android-st?style=plastic&logo=android&logoColor=green&labelColor=black)
 ![Kotlin](https://img.shields.io/badge/kotlin-black?style=plastic&logo=kotlin&logoColor=violet&labelColor=black&color=violet)
-![Swift](https://img.shields.io/badge/Swift-black?style=plastic&logo=swift&logoColor=red&labelColor=black&color=red)          ![Python](https://img.shields.io/badge/Python-p?style=plastic&logo=python&logoColor=green&labelColor=black)
+![Swift](https://img.shields.io/badge/Swift-black?style=plastic&logo=swift&logoColor=red&labelColor=black&color=red)  ![Python](https://img.shields.io/badge/Python-p?style=plastic&logo=python&logoColor=green&labelColor=black)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=red&labelColor=black)
 ### 🛠️ Softwares and Tools
 ![ANDROID-STUDIO](https://img.shields.io/badge/Android_Studio-%2320232a.svg?style=plastic&logo=android-studio&logoColor=%a4c639) 
