@@ -30,11 +30,11 @@
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=yellow&labelColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=Ubuntu&logoColor=orange&labelColor=black)
 ### ☁️ Data Bases
-![SQL](https://img.shields.io/badge/SQL-st?style=plastic&logo=microsoft-sql-server&logoColor=white&labelColor=blue)
-![MySQL](https://img.shields.io/badge/MySQL-st?style=plastic&logo=mysql&logoColor=blue&labelColor=orange)
-![MongoDB](https://img.shields.io/badge/MongoDB-st?style=plastic&logo=mongodb&logoColor=green&labelColor=black)
-![Redis](https://img.shields.io/badge/Redis-st?style=plastic&logo=redis&logoColor=blue&labelColor=black)
-![eXist](https://img.shields.io/badge/eXist-DB-st?style=plastic&logo=exist-db&logoColor=red&labelColor=black)
+![SQL](https://img.shields.io/badge/SQL-st?style=plastic&logo=microsoft-sql-server&logoColor=white&labelColor=blue&color=blue)
+![MySQL](https://img.shields.io/badge/MySQL-st?style=plastic&logo=mysql&logoColor=blue&labelColor=orange&color=orange)
+![MongoDB](https://img.shields.io/badge/MongoDB-st?style=plastic&logo=mongodb&logoColor=green&labelColor=black&color=black)
+![Redis](https://img.shields.io/badge/Redis-st?style=plastic&logo=redis&logoColor=blue&labelColor=black&color=black)
+![eXist](https://img.shields.io/badge/eXist-DB-st?style=plastic&logo=exist-db&logoColor=red&labelColor=black&color=black)
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
