@@ -29,6 +29,8 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=blue&labelColor=white) 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=yellow&labelColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=Ubuntu&logoColor=orange&labelColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white&labelColor=black)
+
 ### ☁️ Data Bases
 ![SQL](https://img.shields.io/badge/SQL-st?style=plastic&logo=microsoft-sql-server&logoColor=white&labelColor=blue&color=blue)
 ![MySQL](https://img.shields.io/badge/MySQL-st?style=plastic&logo=mysql&logoColor=blue&labelColor=orange&color=orange)
