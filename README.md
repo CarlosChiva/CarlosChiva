@@ -14,8 +14,7 @@
 </ul>
 
 ## 🤝 Socials
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cosmin-ionut-iordache-62641b26a/) -->
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/carlos-chiva-andrio-6620502a7)
 [![Mail](https://img.shields.io/badge/-cxhiva@gmail.com-gray?logo=gmail&style=plastic)](mailto:cxhiva@gmail.com)
 
 ### ✍ Programming languages
