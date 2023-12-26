@@ -30,6 +30,8 @@
 ![IntelliJ](http://img.shields.io/badge/IntelliJ-idea?style=plastic&logo=intellijidea&logoColor=red&labelColor=black) 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=blue&labelColor=white) 
 ![XCODE](https://img.shields.io/badge/Xcode-%231485D8?style=plastic&logo=xcode&logoColor=%231485D8&labelColor=black)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-%23F37626?style=plastic&logo=jupyter&logoColor=black)
+
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white&labelColor=black)
 ![DOCKER](https://img.shields.io/badge/Docker-%232496ED?style=plastic&logo=docker&logoColor=%232496ED&labelColor=black)
