@@ -15,26 +15,35 @@
 
 ## 🤝 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-chiva-andrio-6620502a7/)
+
 [![Mail](https://img.shields.io/badge/-cxhiva@gmail.com-gray?logo=gmail&style=plastic)](mailto:cxhiva@gmail.com)
 
 ### ✍ Programming languages
-![Android](https://img.shields.io/badge/android-st?style=plastic&logo=android&logoColor=green&labelColor=black)
 ![Kotlin](https://img.shields.io/badge/kotlin-black?style=plastic&logo=kotlin&logoColor=violet&labelColor=black&color=violet)
 ![Swift](https://img.shields.io/badge/Swift-black?style=plastic&logo=swift&logoColor=red&labelColor=black&color=red)  ![Python](https://img.shields.io/badge/Python-p?style=plastic&logo=python&logoColor=green&labelColor=black)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=red&labelColor=black)
 ### 🛠️ Softwares and Tools
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=yellow&labelColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=Ubuntu&logoColor=orange&labelColor=black)
+
 ![ANDROID-STUDIO](https://img.shields.io/badge/Android_Studio-%2320232a.svg?style=plastic&logo=android-studio&logoColor=%a4c639) 
 ![IntelliJ](http://img.shields.io/badge/IntelliJ-idea?style=plastic&logo=intellijidea&logoColor=red&labelColor=black) 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=blue&labelColor=white) 
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=yellow&labelColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=Ubuntu&logoColor=orange&labelColor=black)
+![XCODE](https://img.shields.io/badge/Xcode-%231485D8?style=plastic&logo=xcode&logoColor=%231485D8&labelColor=black)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white&labelColor=black)
+![DOCKER](https://img.shields.io/badge/Docker-%232496ED?style=plastic&logo=docker&logoColor=%232496ED&labelColor=black)
+![POSTMAN](https://img.shields.io/badge/Postman-%23FF6C37?style=plastic&logo=postman&logoColor=%23FF6C37&labelColor=black)
+
 
 ### ☁️ Data Bases
 ![SQL](https://img.shields.io/badge/SQL-st?style=plastic&logo=microsoft-sql-server&logoColor=white&labelColor=blue&color=blue)
 ![MySQL](https://img.shields.io/badge/MySQL-st?style=plastic&logo=mysql&logoColor=blue&labelColor=orange&color=orange)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-st?style=plastic&logo=mongodb&logoColor=green&labelColor=black&color=black)
+
 ![Redis](https://img.shields.io/badge/Redis-st?style=plastic&logo=redis&logoColor=blue&labelColor=black&color=black)
+
 ![eXist](https://img.shields.io/badge/eXist-DB-st?style=plastic&logo=exist-db&logoColor=red&labelColor=black&color=black)
 
 
