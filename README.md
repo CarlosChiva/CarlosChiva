@@ -1,9 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
-</div>
 
-## Hi👋, I'm Carlos Chiva
-### I am a passionate cross-platform application developer, with experience in creating innovative solutions for various devices. Throughout my career, I have worked on developing Android and iOS mobile applications.
+<h2 align="center">Hi👋, I'm Carlos Chiva</h2>
 
 
 ## 🙋‍♂️ About me
@@ -52,8 +48,6 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=CarlosChiva&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosChiva&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### In addition to my interest in application development, I am currently pursuing a specialization in Artificial Intelligence and Big Data. Here, I am gaining knowledge in machine learning algorithms, big data processing, and predictive analysis. I firmly believe that the combination of artificial intelligence with the management and analysis of large volumes of data provides us with unprecedented opportunities to solve problems and make more informed decisions in various fields.
 
 
 <img src="https://media.giphy.com/media/YnexM9LwlwGu4Z1QnS/giphy-downsized-large.gif" width="500"/>
