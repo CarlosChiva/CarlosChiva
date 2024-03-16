@@ -18,9 +18,13 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-black?style=plastic&logo=kotlin&logoColor=violet&labelColor=black&color=violet)
 ![Swift](https://img.shields.io/badge/Swift-black?style=plastic&logo=swift&logoColor=red&labelColor=black&color=red)  ![Python](https://img.shields.io/badge/Python-p?style=plastic&logo=python&logoColor=green&labelColor=black)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=red&labelColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-st?style=plastic&logo=solidity&logoColor=white&labelColor=363636&color=343434)
+
 ### 🛠️ Softwares and Tools
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=yellow&labelColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=Ubuntu&logoColor=orange&labelColor=black)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white&labelColor=black)
 
 ![ANDROID-STUDIO](https://img.shields.io/badge/Android_Studio-%2320232a.svg?style=plastic&logo=android-studio&logoColor=%a4c639) 
 ![IntelliJ](http://img.shields.io/badge/IntelliJ-idea?style=plastic&logo=intellijidea&logoColor=red&labelColor=black) 
@@ -28,9 +32,8 @@
 ![XCODE](https://img.shields.io/badge/Xcode-%231485D8?style=plastic&logo=xcode&logoColor=%231485D8&labelColor=black)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-%23F37626?style=plastic&logo=jupyter&logoColor=black)
 
-
-![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white&labelColor=black)
 ![DOCKER](https://img.shields.io/badge/Docker-%232496ED?style=plastic&logo=docker&logoColor=%232496ED&labelColor=black)
+
 ![POSTMAN](https://img.shields.io/badge/Postman-%23FF6C37?style=plastic&logo=postman&logoColor=%23FF6C37&labelColor=black)
 
 
@@ -43,6 +46,10 @@
 ![Redis](https://img.shields.io/badge/Redis-st?style=plastic&logo=redis&logoColor=blue&labelColor=black&color=black)
 
 ![eXist](https://img.shields.io/badge/eXist-DB-st?style=plastic&logo=exist-db&logoColor=red&labelColor=black&color=black)
+
+![Qdrant](https://img.shields.io/badge/Qdrant-DB-st?style=plastic&logo=qdrant&logoColor=blue&labelColor=black&color=black)
+
+![Hadoop](https://img.shields.io/badge/Hadoop-Framework-st?style=plastic&logo=hadoop&logoColor=yellow&labelColor=black&color=black)
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
