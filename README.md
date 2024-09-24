@@ -4,9 +4,9 @@
 
 ## 🙋‍♂️ About me
 <ul>
-  <li>👱‍♂️ 29</li>
-  <li>📱 Junior Android developer</li>
-  <li>📚 Artificial Intelligence,Big Data and Data Science</li>
+  <li>👱‍♂️ 30</li>
+  <li>📱 IA Developer</li>
+  <li>📚 Specialization of Artificial Intelligence,Big Data and Data Science</li>
 </ul>
 
 ## 🤝 Socials
@@ -48,6 +48,7 @@
 ![eXist](https://img.shields.io/badge/eXist-DB-st?style=plastic&logo=exist-db&logoColor=red&labelColor=black&color=black)
 
 ![Qdrant](https://img.shields.io/badge/Qdrant-DB-st?style=plastic&logo=qdrant&logoColor=blue&labelColor=black&color=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-DB-st?style=plastic&logo=chromadb&logoColor=white&labelColor=black&color=black)
 
 ![Hadoop](https://img.shields.io/badge/Hadoop-Framework-st?style=plastic&logo=hadoop&logoColor=yellow&labelColor=black&color=black)
 
