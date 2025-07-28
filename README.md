@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About me
 <ul>
-  <li>👱‍♂️ 30</li>
+  <li>👱‍♂️ 31</li>
   <li>📱 IA Developer</li>
   <li>📚 Specialization of Artificial Intelligence,Big Data and Data Science</li>
 </ul>
